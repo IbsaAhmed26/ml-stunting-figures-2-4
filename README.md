@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI:10.5281/zenodo.18452880.svg)](https://doi.org/10.5281/zenodo.18452880)
+
 # Reproducible Figures 2–4 (single clean notebook)
 
 This repository contains **one** clean notebook that reproduces Figures 2–4 for the manuscript.
