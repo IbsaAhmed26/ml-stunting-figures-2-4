@@ -1,4 +1,6 @@
-[![DOI](https://zenodo.org/badge/DOI:10.5281/zenodo.18452880.svg)](https://doi.org/10.5281/zenodo.18452880)
+Ibsa Ahmed (2026). ml-stunting-figures-2-4: Reproducible code and data for Figures 2–4 
+submitted to npj Digital Public Health (Version v1.0.1) 
+[Data set]. Zenodo. https://doi.org/10.5281/zenodo.18452880
 
 # Reproducible Figures 2–4 (single clean notebook)
 
